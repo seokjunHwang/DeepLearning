@@ -1,4 +1,4 @@
-# DeepLearning
-Pytorch, NLP, CV ...
+# Plant leaf disease classification
+- Pytorch,  torchvision, convN
 
-원본 데이터 https://data.mendeley.com/datasets/tywbtsjrjv/1
+- 원본 데이터 https://data.mendeley.com/datasets/tywbtsjrjv/1
